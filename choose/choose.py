@@ -11,6 +11,7 @@ def index():
   <h1> Choose A Country to Travel </h1>'''
   html+='<p> You got a long vacation and wanted to visit another country. Which country would you like to go to the most? </p>'
   
+  
   html+='''
   <ol>
   <li>{}</li><img src={} height=200>
